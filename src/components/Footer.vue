@@ -55,7 +55,7 @@
           <Icon icon="carbon:home" class="w-5 h-5" />
         </a>
         <a 
-          href="`mailto:fun@xiowo.net`"
+          href="mailto:fun@xiowo.net"
           class="inline-flex items-center justify-center p-1.5 rounded-full transition-colors duration-200
             text-gray-400 hover:text-gray-600 hover:bg-gray-200
             dark:text-gray-500 dark:hover:text-gray-400 dark:hover:bg-gray-700
